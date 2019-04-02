@@ -1,4 +1,4 @@
-# Software-Engineering-Project
+# StudentSurplus: A Software-Engineering-Project
 
 The repository is organised as shown below
 
